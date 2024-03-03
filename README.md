@@ -15,8 +15,8 @@ To build this project we require the following open source software and librarie
 
 * Open Jupyter Notebook
 * Paste the following code
-* Create a folder with the name 'known_faces' as in the code and save the images of students with their names as file names.
-* Create an Excel sheet with the name as in the code.
+* Create a folder **in the same directory of code with the name 'known_faces' as in the code** and save the images of students with their names as file names.
+* Create an **Excel sheet with the name as in the code.**
 * Install required libraries from the code using the pip command in the terminal
 * Run the code and see the attendance being marked in the Excel sheet with the date and time.
 
